@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(24, 231, 214);
+    border: 10px solid rgb(216, 91, 18);
+    background-color: rgba(216, 91, 19, 0.979);
+}
+
+body {
+    background-color: #7ae9ec;
+}
+
+img {
+    border: 3px solid rgb(219, 18, 18);
+}
+
+p {
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+
+ol,
+ul {
+    font-family: comic sans ms;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+.languages{
+    border-radius:20px;
+    background-color:#7ae9ec;
+    width:350px;
+}
+
+.menu{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    background-color:rgb(216, 91, 18);
+    font-size:30;
+    font-family: sans-serif;
+    font-weight:400;
+    color:white;
+}
+
+
